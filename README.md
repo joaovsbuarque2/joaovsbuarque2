@@ -8,8 +8,7 @@
 
 - 👨‍💻 27 anos, apaixonado por tecnologia e desenvolvimento de software.
 - 💼 Já atuei em empresas como **Getty** e **Klever (Crypto & NFT Market)**.
-- 🌍 Criei o site institucional da Klever usando **Bootstrap 5**.
-- 📱 Participei do desenvolvimento inicial do app da Klever em **React Native** (100k+ downloads).
+- 📱 Participei do desenvolvimento do app da Klever em **React Native** .
 - 💻 Atuei no projeto da Exchange da Klever com **React** e várias bibliotecas front-end.
 - 🖥️ Experiência sólida em web front-end: **React, Next.js, Vue.js, Angular**.
 - 🎨 Curto design e já estudei um pouco de **Figma** e **animações UI/UX**.
