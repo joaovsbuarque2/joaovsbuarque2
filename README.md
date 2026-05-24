@@ -18,25 +18,9 @@
 
 ## 🚀 Sobre mim
 
-- 👨‍💻 27 anos, apaixonado por tecnologia e desenvolvimento de software.
-- 💼 Já atuei em empresas como **Getty** e **Klever (Crypto & NFT Market)**.
-- 📱 Participei do desenvolvimento do app da Klever em **React Native** .
-- 💻 Atuei no projeto da Exchange da Klever com **React** e várias bibliotecas front-end.
-- 🖥️ Experiência sólida em web front-end: **React, Next.js, Vue.js, Angular**.
-- 🎨 Curto design e já estudei um pouco de **Figma** e **animações UI/UX**.
-- 🔁 Atualmente focado em me tornar um dev mais completo com foco especial em **desenvolvimento mobile e animações**.
-- 🧠 Criativo, curioso, com vontade de tirar projetos do papel e colocá-los no mundo.
-
----
-
-## 🎯 Objetivo no GitHub
-
-Este é meu espaço para:
-
-- 🚀 Compartilhar meus projetos pessoais e ideias criativas
-- 🎨 Mostrar minha evolução no desenvolvimento mobile e animações
-- 👾 Unir minhas paixões: **games, apps, design e programação**
-- 🌎 Construir uma vitrine real dos meus projetos autorais
+- 💼 Experiência em **React Native**, **React**, **Next.js**, **Vue.js** e **Angular** — já atuei na **Getty** e **Klever (Crypto & NFT Market)**
+- 📱 Foco atual em **desenvolvimento mobile** e **animações** com React Native e Expo
+- 🎯 Aqui compartilho meus projetos autorais, evolução técnica e ideias criativas
 
 ---
 
@@ -58,32 +42,15 @@ Este é meu espaço para:
 
 ---
 
-## 🌱 Em constante aprendizado
-
-- 🧩 **Animações com React Native e Expo**
-- ⚡ **Gamificação e interações fluidas**
-- 🔧 **Backend (Node.js, APIs, Fullstack) - em progresso**
-
----
-
-## 💬 Algumas paixões
-
-- 🎮 Games
-- 📺 Anime
-- ✈️ Viajar e curtir a vida a dois com minha esposa
-- 🎨 Criar ideias e transformá-las em projetos reais
-
----
-
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaovsbuarque2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovsbuarque2&layout=compact&theme=dracula&hide_border=true" alt="Linguagens mais usadas" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joaovsbuarque2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovsbuarque2&layout=compact&theme=dracula" alt="Top Languages" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovsbuarque2&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=joaovsbuarque2&theme=dracula" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -100,11 +67,13 @@ Este é meu espaço para:
 
 ---
 
-## 🐍 Jogo da Cobrinha
+## 📅 Contribuições no último ano
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/joaovsbuarque2/joaovsbuarque2/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
+  <img src="https://raw.githubusercontent.com/joaovsbuarque2/joaovsbuarque2/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
+
+> *As cobrinhas são geradas automaticamente via GitHub Actions com base no seu histórico de contribuições.*
 
 ---
 
@@ -115,9 +84,5 @@ Este é meu espaço para:
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
----
-
-**Bringing creative ideas to life through code.**
 
 ---
