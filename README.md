@@ -67,16 +67,6 @@
 
 ---
 
-## 📅 Contribuições no último ano
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/joaovsbuarque2/joaovsbuarque2/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</p>
-
-> *As cobrinhas são geradas automaticamente via GitHub Actions com base no seu histórico de contribuições.*
-
----
-
 ## 📫 Onde me encontrar
 
 <p align="center">
